@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "DM Solution Documentation", "DM Solution Documentation", "{C7CA3954-6BF5-4861-87D6-285FA3F98145}"
+	ProjectSection(SolutionItems) = preProject
+		DM Solution Documentation\Summit Solution Documentation.docx = DM Solution Documentation\Summit Solution Documentation.docx
+		DM Solution Documentation\Summit Solution Workbook.xlsx = DM Solution Documentation\Summit Solution Workbook.xlsx
+		DM Solution Documentation\Summit Star Schema.vsdx = DM Solution Documentation\Summit Star Schema.vsdx
+		TextFile2.txt = TextFile2.txt
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "DM Build", "DM Build", "{5297C8D0-A18E-45BB-BC8A-1BE9E0DEDFED}"
+	ProjectSection(SolutionItems) = preProject
+		DM Build\BuildSummitSalesDM.sql = DM Build\BuildSummitSalesDM.sql
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
